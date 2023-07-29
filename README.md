@@ -1,1 +1,2 @@
-A Web App to keep track expenses
+A Web App to track expenses in a detailed manner.
+
